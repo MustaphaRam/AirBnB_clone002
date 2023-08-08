@@ -171,7 +171,7 @@ $
 
 <h2>AUTHORS</h2>
 <p>
-    <a href="https://github.com/MustaphaRam"><h4>Mustapha Ramadan<h4></a>
+    <h4><a href="https://github.com/MustaphaRam">Mustapha Ramadan</a></h4>
 </p>
 
 
