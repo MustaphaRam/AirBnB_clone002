@@ -108,12 +108,8 @@ EOF  help  quit
 $
 </code></pre>
 
-<p>All tests should also pass in non-interactive mode: <code>$ echo "python3 -m unittest discover tests" | bash</code></p>
-
 <h2>AUTHORS</h2>
 <p>
     <h4><a href="https://github.com/MustaphaRam">Mustapha Ramadan</a></h4>
 </p>
-
-
-  </div>
+</div>
