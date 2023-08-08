@@ -66,76 +66,8 @@
 <li>Destroy an object</li>
 </ul>
 
-<h2>Resources</h2>
-
-<p><strong>Read or watch</strong>:</p>
-
-<ul>
-<li><a href="/rltoken/8ecCwE6veBmm3Nppw4hz5A" title="cmd module" target="_blank">cmd module</a> </li>
-<li><a href="/rltoken/uEy4RftSdKypoig9NFTvCg" title="cmd module in depth" target="_blank">cmd module in depth</a></li>
-<li><strong>packages</strong> concept page</li>
-<li><a href="/rltoken/KfL9TqwdI69W6ttG6gTPPQ" title="uuid module" target="_blank">uuid module</a> </li>
-<li><a href="/rltoken/1d8I3jSKgnYAtA1IZfEDpA" title="datetime" target="_blank">datetime</a> </li>
-<li><a href="/rltoken/IlFiMB8UmqBG2CxA0AD3jA" title="unittest module" target="_blank">unittest module</a> </li>
-<li><a href="/rltoken/C_a0EKbtvKdMcwIAuSIZng" title="args/kwargs" target="_blank">args/kwargs</a> </li>
-<li><a href="/rltoken/tgNVrKKzlWgS4dfl3mQklw" title="Python test cheatsheet" target="_blank">Python test cheatsheet</a> </li>
-<li><a href="/rltoken/EvcaH9uTLlauxuw03WnkOQ" title="cmd module wiki page" target="_blank">cmd module wiki page</a></li>
-<li><a href="/rltoken/begh14KQA-3ov29KvD_HvA" title="python unittest" target="_blank">python unittest</a></li>
-</ul>
-
-<h2>Learning Objectives</h2>
-
-<p>At the end of this project, you are expected to be able to <a href="/rltoken/uV5eZkRZ_XEqYbgPd-0CWw" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
-
-<h3>General</h3>
-
-<ul>
-<li>How to create a Python package</li>
-<li>How to create a command interpreter in Python using the <code>cmd</code> module</li>
-<li>What is Unit testing and how to implement it in a large project</li>
-<li>How to serialize and deserialize a Class</li>
-<li>How to write and read a JSON file</li>
-<li>How to manage <code>datetime</code></li>
-<li>What is an <code>UUID</code></li>
-<li>What is <code>*args</code> and how to use it</li>
-<li>What is <code>**kwargs</code> and how to use it</li>
-<li>How to handle named arguments in a function</li>
-</ul>
-
-<h3>Copyright - Plagiarism</h3>
-
-<ul>
-<li>You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.</li>
-<li>You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work. </li>
-<li>You are not allowed to publish any content of this project.</li>
-<li>Any form of plagiarism is strictly forbidden and will result in removal from the program.</li>
-</ul>
-
-<h2>Requirements</h2>
-
-<h3>Python Scripts</h3>
-
-<ul>
-<li>Allowed editors: <code>vi</code>, <code>vim</code>, <code>emacs</code></li>
-<li>All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)</li>
-<li>All your files should end with a new line</li>
-<li>The first line of all your files should be exactly <code>#!/usr/bin/python3</code></li>
-<li>A <code>README.md</code> file, at the root of the folder of the project, is mandatory</li>
-<li>Your code should use the pycodestyle (version <code>2.8.*</code>)</li>
-<li>All your files must be executable</li>
-<li>The length of your files will be tested using <code>wc</code></li>
-<li>All your modules should have a documentation (<code>python3 -c 'print(__import__("my_module").__doc__)'</code>)</li>
-<li>All your classes should have a documentation (<code>python3 -c 'print(__import__("my_module").MyClass.__doc__)'</code>)</li>
-<li>All your functions (inside and outside a class) should have a documentation (<code>python3 -c 'print(__import__("my_module").my_function.__doc__)'</code> and <code>python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'</code>)</li>
-<li>A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)</li>
-</ul>
 
 <h3>Python Unit Tests</h3>
-
-
-<h3>GitHub</h3>
-
-
 <h3>Execution</h3>
 
 <p>Your shell should work like this in interactive mode:</p>
